@@ -5,6 +5,8 @@ Visualização de Dados com Mathematica
 
 Book Chapter Source Code (in Portuguese)
 
+Book Page: http://www.mackenzie.com.br/tendencias_tecnologicas.html
+
 Mahtematica 9.0
 
 Workshop de Tendências Tecnológicas
