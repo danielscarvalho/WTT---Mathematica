@@ -28,3 +28,4 @@ danielscarvalho [AT] gmail.com
 Prof. Dr. Pedro P. B. Oliveira - Mackenzie
 pedrob [AT] mackenzie.br
 
+![WTT 2010](WTT10.png)
